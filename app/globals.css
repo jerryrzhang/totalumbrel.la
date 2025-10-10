@@ -221,6 +221,13 @@ body {
   margin-bottom: 1rem;
   max-width: 20svw;
 }
+.medium-right-image {
+  float: right;
+  margin-left: 2rem;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+  max-width: 15svw;
+}
 
 .small-right-image {
   float: right;
