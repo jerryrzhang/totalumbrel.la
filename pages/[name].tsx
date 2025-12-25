@@ -43,7 +43,7 @@ const Page = ({ contents, data, tags }) => {
             © Jerry Zhang
             </div>
             <div>
-              <a target = "_blank" href="https://github.com/TotalUmbrella">
+              <a target = "_blank" href="https://github.com/jerryrzhang">
                 <img src="/totalumbrel.la/github.png" className="logo"/>
               </a>
             </div>

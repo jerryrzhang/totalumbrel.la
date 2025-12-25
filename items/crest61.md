@@ -31,7 +31,7 @@ So I decided to jump straight to endgame(ish) and build my own from scratch, usi
     -[Nice!Nanos](https://nicekeyboards.com/nice-nano/) are typically standard for split ble builds, but I'm poor, so I used clones from aliexpress which run the same chip
 - ble with an 1800mAh [battery](https://www.aliexpress.com/item/1005005213892382.html?spm=a2g0o.order_list.order_list_main.207.50f418021CJyJC) for each side.
     - These are the same batteries which ps3 controllers use, which is handy because they are robust, cheap, and use a common connector. Very nice hardware.
-- zmk firmware can be fond [here](https://github.com/TotalUmbrella/zmk-config-crest)
+- zmk firmware can be fond [here](https://github.com/jerryrzhang/zmk-config-crest)
 
 That is basically all I can think of for specs.
 
