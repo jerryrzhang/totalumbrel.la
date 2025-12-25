@@ -2,7 +2,6 @@ import Link from "next/link";
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import '../app/globals.css';
 import Head from 'next/head';
 
 const Home = (filesMeta) => {
@@ -14,7 +13,7 @@ const Home = (filesMeta) => {
     <div className="flex items-center justify-center min-h-screen">
       <Head>
         <title>totalumbrel.la</title>
-        <link rel="icon" type="image/x-icon" href="/totalumbrel.la/favicon.ico"></link>
+        <link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
       </Head>
       <div className="flex flex-col items-left justify-between min-h-screen py-2 w-1/2">
         <header className="font-[Ubuntu] text-2xl width-full flex flex-row items-center mt-2 mb-4 justify-first font-normal height-10">
@@ -48,7 +47,7 @@ const Home = (filesMeta) => {
         </div>
         <div>
           <a target = "_blank" href="https://github.com/jerryrzhang">
-            <img src="/totalumbrel.la/github.png" className="logo"/>
+            <img src="/github.png" className="logo"/>
           </a>
         </div>
         </footer>

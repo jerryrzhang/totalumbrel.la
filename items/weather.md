@@ -27,7 +27,7 @@ The screen is a non-touch screen standard e-ink display,
 - 400 x 300 px
 - spi connection
 - [found here](https://www.aliexpress.com/item/1005007133350270.html)
-- same 1800mAh ps3 controller battery I used for [my keyboard](/totalumbrel.la/crest61)
+- same 1800mAh ps3 controller battery I used for [my keyboard](/crest61)
 
 Generally, these parts are those that you can get fairly easily off online retailers like aliexpress. They're cheap too so thats good for hobby projects such as this one.
 
